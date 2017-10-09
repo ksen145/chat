@@ -1,0 +1,6 @@
+C:\Users\ksen1\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\ksen1\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\ksen1\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ksen1\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\ksen1\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\ksen1\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\client.csprojResolveAssemblyReference.cache
